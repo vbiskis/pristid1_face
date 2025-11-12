@@ -52,8 +52,8 @@ rsconnect/
 ExtraFiles/
 
 # Large Tiffs
-.tiff
+*.tiff
 
 # Data files (repo only)
-.xlsx
+*.xlsx
 
