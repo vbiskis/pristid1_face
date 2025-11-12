@@ -54,6 +54,9 @@ ExtraFiles/
 # Large Tiffs
 *.tiff
 
+# Temp + Data files
+*.rds
+
 # Data files (repo only)
 *.xlsx
 
