@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Folder of Old code
+ExtraFiles/
+
+# Large Tiffs
+*.tiff
+
+# Data files (repo only)
+*.xlsx
+
