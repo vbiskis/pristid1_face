@@ -60,3 +60,5 @@ ExtraFiles/
 # Data files (repo only)
 *.xlsx
 
+# mac files!
+*.DS_Store

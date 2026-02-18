@@ -130,7 +130,7 @@ ggsave(
   "Fig7.png",
   plot = last_plot(),
   device = NULL,
-  path = NULL,
+  path = 'figs/',
   scale = 1,
   width = 9,
   height = 8,
