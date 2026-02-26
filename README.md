@@ -9,7 +9,9 @@ This repo contains R code re: the analyses for the published manuscript:
 ------------------------------------------------------------------------
 ## Author: Nikki Biskis
 
-PhD Candidate UniSC | SARA
+PhD
+UniSC | SARA
+
 Date: 2025-11-11
 
 ------------------------------------------------------------------------
